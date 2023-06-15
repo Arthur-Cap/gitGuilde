@@ -14,3 +14,4 @@
 5. Commit file to local stage
 - cmd command: git commit -m 'note'
 	example: git commit -m 'Commit readme'
+
