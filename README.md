@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+# gitGuilde
+Commit thứ hai vào branch hung.dangngoc
+=======
 # gitGuilde.
-git xóa
+>>>>>>> main
